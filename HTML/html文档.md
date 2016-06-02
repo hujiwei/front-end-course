@@ -1,12 +1,12 @@
 # 文档声明
-```
+```html
 <!DOCTYPE html>
 ```
 首行，顶格
 
 # 文档头部
 <head>标签中的内容:
-```
+```html
 <meta charset="utf-8"><!-- 设置字符集 -->
 <title>title</title><!-- 网站标题 -->
 <meta name="keywords" content="音乐……"><!-- 网站关键字 -->
