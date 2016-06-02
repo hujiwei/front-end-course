@@ -141,8 +141,9 @@ css优先级计算方法：
 计算公式：
 - value = a\*1000 + b\*100 + c\*10 + d
 
-__例子__
-![css优先级计算](css_selecter1.gif "css优先级计算")
+__例子:__
+
+![css优先级计算](images/css_selecter1.gif "css优先级计算")
 
 #### css改变优先级
 - 改变先后顺序
